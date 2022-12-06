@@ -1,0 +1,225 @@
+[
+  {
+    "id": 0,
+    "name": "Нур-Султан",
+    "total": 120,
+    "actual": 60,
+    "children": [
+      {
+        "id": 1,
+        "name": "Центр 1",
+        "total": 40,
+        "actual": 20,
+        "children": [
+          {
+            "id": 2,
+            "name": "Управление 1",
+            "total": 20,
+            "actual": 10,
+            "children": [
+              {
+                "id": 3,
+                "name": "Отдел 1",
+                "total": 10,
+                "actual": 5,
+                "children": []
+              },
+              {
+                "id": 4,
+                "name": "Отдел 2",
+                "total": 10,
+                "actual": 5,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Управление 2",
+            "total": 20,
+            "actual": 10,
+            "children": [
+              {
+                "id": 6,
+                "name": "Отдел 1",
+                "total": 10,
+                "actual": 5,
+                "children": []
+              },
+              {
+                "id": 7,
+                "name": "Отдел 2",
+                "total": 10,
+                "actual": 5,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Центр 2",
+        "total": 80,
+        "actual": 40,
+        "children": [
+          {
+            "id": 9,
+            "name": "Управление 1",
+            "total": 40,
+            "actual": 20,
+            "children": [
+              {
+                "id": 10,
+                "name": "Отдел 1",
+                "total": 20,
+                "actual": 10,
+                "children": []
+              },
+              {
+                "id": 11,
+                "name": "Отдел 2",
+                "total": 20,
+                "actual": 10,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Управление 2",
+            "total": 40,
+            "actual": 20,
+            "children": [
+              {
+                "id": 13,
+                "name": "Отдел 1",
+                "total": 20,
+                "actual": 10,
+                "children": []
+              },
+              {
+                "id": 14,
+                "name": "Отдел 2",
+                "total": 20,
+                "actual": 10,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Алматы",
+    "total": 120,
+    "actual": 60,
+    "children": [
+      {
+        "id": 16,
+        "name": "Центр 1",
+        "total": 40,
+        "actual": 20,
+        "children": [
+          {
+            "id": 17,
+            "name": "Управление 1",
+            "total": 20,
+            "actual": 10,
+            "children": [
+              {
+                "id": 18,
+                "name": "Отдел 1",
+                "total": 10,
+                "actual": 5,
+                "children": []
+              },
+              {
+                "id": 19,
+                "name": "Отдел 2",
+                "total": 10,
+                "actual": 5,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Управление 2",
+            "total": 20,
+            "actual": 10,
+            "children": [
+              {
+                "id": 21,
+                "name": "Отдел 1",
+                "total": 10,
+                "actual": 5,
+                "children": []
+              },
+              {
+                "id": 22,
+                "name": "Отдел 2",
+                "total": 10,
+                "actual": 5,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Центр 2",
+        "total": 80,
+        "actual": 40,
+        "children": [
+          {
+            "id": 24,
+            "name": "Управление 1",
+            "total": 40,
+            "actual": 20,
+            "children": [
+              {
+                "id": 25,
+                "name": "Отдел 1",
+                "total": 20,
+                "actual": 10,
+                "children": []
+              },
+              {
+                "id": 26,
+                "name": "Отдел 2",
+                "total": 20,
+                "actual": 10,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "name": "Управление 2",
+            "total": 40,
+            "actual": 20,
+            "children": [
+              {
+                "id": 28,
+                "name": "Отдел 1",
+                "total": 20,
+                "actual": 10,
+                "children": []
+              },
+              {
+                "id": 29,
+                "name": "Отдел 2",
+                "total": 20,
+                "actual": 10
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
